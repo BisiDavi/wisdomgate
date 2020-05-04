@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wisdomgate/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wisdomgate/static/js/main.3e17e3df.chunk.js",
+    "main.js.map": "/wisdomgate/static/js/main.3e17e3df.chunk.js.map",
+    "runtime-main.js": "/wisdomgate/static/js/runtime-main.fc78e44a.js",
+    "runtime-main.js.map": "/wisdomgate/static/js/runtime-main.fc78e44a.js.map",
+    "static/js/2.efcbf874.chunk.js": "/wisdomgate/static/js/2.efcbf874.chunk.js",
+    "static/js/2.efcbf874.chunk.js.map": "/wisdomgate/static/js/2.efcbf874.chunk.js.map",
+    "index.html": "/wisdomgate/index.html",
+    "precache-manifest.afc8731112704265bb741fa8865e3e6e.js": "/wisdomgate/precache-manifest.afc8731112704265bb741fa8865e3e6e.js",
+    "service-worker.js": "/wisdomgate/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wisdomgate/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.efcbf874.chunk.js.LICENSE.txt": "/wisdomgate/static/js/2.efcbf874.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wisdomgate/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc78e44a.js",
+    "static/js/2.efcbf874.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3e17e3df.chunk.js"
+  ]
+}
